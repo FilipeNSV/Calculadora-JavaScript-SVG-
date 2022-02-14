@@ -1,7 +1,7 @@
 # Calculator-JavaScript-SVG-
 
-The project consists of making a simple and functional calculator.
-O projeto consiste em fazer uam calculadora simples e funcional.
+The project consists of making a simple calculator with functions similar to the google operating system calculator.
+O projeto consiste em fazer uma calculadora simples e com funções similares a calculadora do sistema operacional google.
 
 Double clicking on the AC key can activate the calculator sound.
 Duplo clique na tecla AC poderá ativar o som da calculadora.
